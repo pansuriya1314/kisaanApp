@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">kisaan App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="mobilenumber">Mobile Number</string>
+    <string name="trailpackage">
+        1)ph
+        2)Electrical Conductivity
+        3)Organic Carbon
+        4)Nitrogen
+        5)Phosphorus
+        6)Potassium
+    </string>
+    <string name="basic">
+        1)ph
+        2)Electrical Conductivity
+        3)Organic Carbon
+        4)Nitrogen
+        5)Phosphorus
+        6)Potassium
+        7)Calcium
+        8)Magnesium
+        9)Sulfur
+        10)Zinc
+        11)Manganese
+        12)Iron
+        13)Copper
+        14)Baron
+    </string>
+    <string name="standard">
+        1)ph
+        2)Electrical Conductivity
+        3)Organic Carbon
+        4)Nitrogen
+        5)Phosphorus
+        6)Potassium
+        7)Calcium
+        8)Magnesium
+        9)Sulfur
+        10)Zinc
+        11)Manganese
+        12)Iron
+        13)Copper
+        14)Baron
+        15)Lime Requirenment  Gypsum Requirenment
+    </string>
+    <string name="premium">
+        1)ph
+        2)Electrical Conductivity
+        3)Organic Carbon
+        4)Nitrogen
+        5)Phosphorus
+        6)Potassium
+        7)Calcium
+        8)Magnesium
+        9)Sulfur
+        10)Zinc
+        11)Manganese
+        12)Iron
+        13)Copper
+        14)Baron
+        15)Soil Biology
+    </string>
+    <string name="about">
+AgriApp with a bunch of professionals dreaming
+about making agriculture more sustainable both
+ecologically and economically in quick time with
+help of technology.
+
+Join us in our mission and passion to make this a
+reality for keeping the ecosystem of food
+available for generations to come. This all-in-one
+agriculture focused app is completely free.
+Download from Google play store and Enjoy the
+Farming. Happy and Healthy Farming!
+
+AgriApp is an IT, ICT and IOT enabled technology
+company with an intent to bring technology to the
+field of agriculture and food sector.intent to bring
+technology to the field of agriculture and food
+sector.</string>
+    <string name="our">
+AgriApp motto is connecting the Agriculture
+ecosystem with the digital world, while enabling
+and equipping the farmers with the next
+generation farming techniques. Making each
+farmer a Digitally Enabled to Solve Food, Fiber, Fertilizer, Fuel and Feed
+Challenges.</string>
+
+    <string name="symptoms">Curled and deformed leaves. Small insects under the leaves and shoots. Stunted growth.Low to moderate numbers are usually notharmful to crops. Severe infestation cancause leaves and shoots to curl, wilt or yellowand stunt plant growth. A general decline inplant vigor will be noticed. Aphids producehoneydew that can cause an additionalinfection by opportunistic fungi, indicatedby the development of mold on the leaves.</string>
+    <string name="organiccon">Squash and Remove. Start by checking plants regularly for any signs of aphids. ...Blast Them Off. Try blasting small infestations of aphids off your plants with a jet of water from a hosepipe. ...Spray Soapy Water. ...Cover Vulnerable Vegetables. ...Attract Aphid Predators</string>
+    <string name="chemicalcon">Permethrin is also a broad spectrum insecticide with a quick knockdown of targeted pests which include aphids.It’s used in a wide range of crops such as vegetables, ornaments, and other field crops.It has a long-lasting effect which can extend to 90 days in greenhouses and indoor usage.For outdoor plants, it can last up to 30 days</string>
+    <string name="cornintro">Appearance of black, sooty mass on theplants. Occurrence of water-soaked scales. Formation of streaks along veins. Seed and collar rot symptoms.Seeds rot without germinating and ifgermination occurs, the collar region getsrotten with water-soaked lesions. Damagedplant areas will also show water-soakedlesions. The symptoms vary depending onthe affected crop. In onions, seedlings rot atthe collar region during the early germinationperiod.</string>
+    <string name="cornsoil">Identify what sap sucking insect is present and treat accordingly. If you can’t see any pests then there’s a pretty good chance of it being:scale (some types are very good at camouflage) or,mites (very small and difficult to spot with the naked eye).eco-oil and eco-neem will both control a broad range of sap-sucking insects.  Spray with either a couple of times to kill the pests.  Ensure good coverage all over the plants so you don’t miss any of the pests.</string>
+    <string name="cornfertilizer">Sooty mold is a fungal disease that grows on plants and other surfaces covered by honeydew, a sticky substance created by certain insects. Sooty mold’s name comes from the dark threadlike growth (mycelium) of the fungi resembling a layer of soot. Sooty mold doesn’t infect plants but grows on plant parts and other surfaces where honeydew deposits accumulate.</string>
+    <string name="groundnutintro">Groundnut is perfectly grown in well-draine sandy loam or sandy clay loam soil.Optimum soil temperature for good germination of groundnut is 30Â°C.The low temperature at sowing delays germination and increases seed and seedling diseases.A soil test must be done before starting groundnut farming.</string>
+    <string name="groundnutsoil">The crop does best on well drained, light textured loose and friable soil with reasonably high calcium with a pH range of 5.5 to 7.0 and a moderate organic matter.</string>
+    <string name="groundnutfertilizer">Collect and destroy egg masses in the cropped area. Avoid migration of larvae by digging a trench 30 cm deep and 25 cm wide with perpendicular sides around the infested fields. Apply any one of the following insecticides Thiodicarb 75% WP @ 1g/lit Emamectin benzoate @ 1 g/lit</string>
+    <string name="groundnutharveshting">Observe the crop, considering its average duration. Drying and falling of older leaves and yellowing of the top leaves indicate maturity. Pull out a few plants at random and shell the pods. If the inner shell is brownish black and not white, then the crop has matured. Irrigate prior to harvest, if the soil is dry, as this will facilitate easy harvesting. If there is enough moisture in the soil, there is no need for irrigation for harvesting. lf water is not available for irrigating the field prior to harvest, work a mould board plough or work a country plough, so that the plants are uprooted. Engage labour to search pods left out in the soil, if necessary.</string>
+    <string name="greengramintro">Green gram is important pulse crops. The grains (whole or split) are used as a pulse or made into flour, and into straw and husk as fodder for cattle.Grains are also eaten whole (after germinating them), parched, salted, with sugar or boiled with condiments. The important states producing this pulse are Madhya Pradesh, Maharashtra, Uttar Pradesh, Punjab and Andhra Pradesh, Rajasthan, Karnataka and Tamil Nadu.</string>
+    <string name="greengramsoil">It can be cultivated on wide range of soil. Gives best result when grown on well drained loamy to sandy-loam soils. Saline and water logged soils are not suitable for cultivation.</string>
+    <string name="greengramfertilizer">Apply fertilizers basally before sowing.
+
+Rainfed : 12.5 kg N + 25 kg P205 + 12.5 kg K20
++10 kg S*/ha Irrigated : 25 kg N + 50 kg P205 +
+25 kg K20 + 20 kg S*/ha</string>
+    <string name="greengramharveshting">Best time of harvesting when 85% of pods get matured. Over-ripening of pods should be avoided as produce may be lost due to shattering.Do harvesting with sickle. After harvesting carried out threshing. After threshing, seeds are cleaned and dried in the sunshine.</string>
+    <string name="coconutintro">The coconut palm is referred to and every part of the palm is useful to mankind in one way or other. It provides food, drink, fuel and timber. Millions of families in India depend on coconut for their livelihood either directly or indirectly India ranks third in area and production of coconut in the world.The four southern states viz . Kerala, Tamil Nadu, Karnataka and Andhra Pradesh are the major coconut producing states in India accounting for more than 90 per cent of area and production.</string>
+    <string name="coconutsoil">Red sandy loam, laterite and alluvial soils are suitable. Select sites with deep (not less than 1.5 m depth) well drained soil heavy, imperfectly drained soil is unsuitable. Avoid shallow soils with underlying hard rock, low-lying areas subject to water stagnation and heavy clayey soils. Soil with a minimum depth of 1.2 m and fairly good water holding capacity is preferred for coconut cultivation. However, in lands, reclaimed by heaping alternate layers of sand and clay, coconut thrives well.</string>
+    <string name="coconutfertilizer">From 5th year onwards, apply 50 kg of FYM or compost or green manure.3 kg urea (560 g N),2.0 kg super phosphate (320 g P205) and 2.0 kg muriate of potash (1200 g K20) in two equal splits during June â€” July and December - January. Apply manures and fertilizers in circular basins of 1.8 m from the base of the palm, incorporate and irrigate. During 2nd, 3rd and 4th year %4, 4 and % doses of the above fertilizer schedule should be adopted respectively. Sufficient moisture should be present at the time of manuring.Fertigation may be done at monthly intervals with 75% of the recommended dose of the above fertilizers.</string>
+    <string name="coconutharveshting">Twelve months old nuts are harvested at the interval of 30-45 days for seed as well as copra making and culinary purposes.For household use keep the nuts in vertical direction.for tender nut purposes 7 to 8 months old nuts are harvested. The nuts can be harvested using coconut climbers.Nuts which are 11 months old give fiber of good quality. This is suitable for coir fiber.In case of tall variety, the nuts harvested for seed purpose can be stored for 2 to 3 months period before sowing, whereas in case of dwarfs and hybrids, nuts should be sown with in a period of 10 -15 days of harvest.</string>
+    <string name="teaintro">Tea plantations look like a huge forest made up of small trees that rarely reach above 1.5m in height. When their trunks are thick and gnarled, they show that their age is much greater than their small size would suggest. In their natural state tea plants can reach a height of 15 to 20m.</string>
+    <string name="teasoil">Tea requires well drained soil with high amount of organic matter and pH 4.5 to 5.5.</string>
+    <string name="fertilizertea">Manuring should be done 2 months after planting. Phosphorous should be applied at 80 - 100 kg/ha as Rock phosphate once in a year by placement at 15 - 25 cm depth up to the first pruning and thereafter once in two years. N : K ratio 2 : 3 should be adapted for the first 3 years and a ratio 1:1 thereafter Application of fertilizers should be done before the onset of monsoon. Fertilizers should be broadcast around the dnp circle avoiding contact with the collar.</string>
+    <string name="harveshtingtea">Plucking commences when the tea bush is 3 years old. The plucking of extreme tip of the growing branch consists of an unopened bud together with two leaves is popularly known as "Two leaves and a bud", while fine plucking is anything less than this. In South India plucking continues throughout the year at weekly intervals during March - May and at intervals of 10 -14 days during the other months.</string>
+    <string name="cottonharvesting">Harvest at frequent intervals, at less than 7 days interval. Harvest in the morning hours upto 10 to 11 a.m only when there is moisture so that dry leaves and bracts do not stick to the kapas and lower the market value.Pick kapas from well burst bolls only.Remove only the kapas from the bolls and leave the bracts on the plants.After kapas is picked, sort out good puffy ones and keep separately.Keep stained, discoloured and insect attacked</string>
+    <string name="cottonfertilizer">Bolls showing regular, circular bore holes.Larvae seen feeding on the boll by thrusting their heads alone inside and leaving the rest of the body outside.Presence of granular faecal pellets outside the bore hole.</string>
+    <string name="cottonsoilintro">Cotton cultivation is closely related to deep black soils (regur) of the Deccan and the Malwa Plateaus and those of Gujarat. It also grows well in alluvial soils of the Satluj-Ganga Plain and red and laterite soils of the peninsular regions. Cotton quickly exhausts the fertility of soil. Therefore, regular application of manures and fertilizers to the soils is very necessary.</string>
+    <string name="cottonintro">Cotton is one of the most important fiber and cash crop of India and plays a dominant role in the industrial and agricultural economy of the country. It provides the basic raw material (cotton fibre) to cotton textile industry. Cotton in India provides direct livelinood to 6 million farmers and about 40-50 million people are employed in cotton trade and its processing.</string>
+    <string name="wheatintro">Wheat is grown on 13 percent of the cropped area of India. Next to rice, wheat is the most important food-grain of India and is the staple food of millions of Indians, particularly in the northern and north-western parts of the country. It is rich in proteins, vitamins and carbohydrates and provides balanced food. India is the fourth largest producer of wheat in the world after Russia, the USA and China and accounts for 8.7% of the world\'s total production of wheat.</string>
+    <string name="fertilizerintro">Apply NPK fertilizer as per soil test recommendation as far as possible. If soil test recommendation is not available, adopt a blanket recommendation of 80:40:40 NPK kg/ha. Apply half of N and full dose of P20 and K205 basally before sowing and incorporate in the sowing line.</string>
+    <string name="harveshtingintro">Harvesting of high yielding dwarf variety is carried out when leaves and stem turn yellow and become fairly dry. To avoid loss in yield crop should be harvested before it is dead ripe. Timely harvesting is needed for optimum quality and consumer acceptance. The right stage for harvesting is when moisture in grain reaches to 25-30%. For manual harvesting use serrat edge sickles. Combines harvester are also available which can do harvesting, threshing and winnowing of wheat crop in single operation.</string>
+    <string name="soilintro">Soils with a clay loam or loam texture, good structure and moderate water holding capacity are ideal for wheat cultivation. Heavy soil with good drainage is suitable for wheat cultivation under dry conditions.</string>
+</resources>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.kisaanapp">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.KisaanApp"
+        tools:targetApi="31">
+        <activity
+            android:name=".aphids"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".peanutrust"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".fruitmolds"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".whitegrub"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".termites"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".blackmould"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".castor"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".groundnut"
+            android:exported="false" />
+        <activity
+            android:name=".corn"
+            android:exported="false" />
+        <activity
+            android:name=".coconut"
+            android:exported="false" />
+        <activity
+            android:name=".greengram"
+            android:exported="false" />
+        <activity
+            android:name=".tea"
+            android:exported="false" />
+        <activity
+            android:name=".cotton"
+            android:exported="false" />
+        <activity
+            android:name=".wheat"
+            android:exported="false" />
+        <activity
+            android:name=".Aboutus"
+            android:exported="true"
+            android:label="AboutUs"
+            android:parentActivityName=".Dashboard" />
+        <activity
+            android:name=".Contactus"
+            android:exported="true"
+            android:label="ContactUs"
+            android:parentActivityName=".Dashboard" />
+        <activity
+            android:name=".Forgot"
+            android:exported="false" />
+        <activity
+            android:name=".market"
+            android:exported="true"
+            android:label="Market"
+            android:parentActivityName=".Dashboard" />
+        <activity
+            android:name=".cropcare"
+            android:exported="true"
+            android:label="Crop Care"
+            android:parentActivityName=".Dashboard" />
+        <activity
+            android:name=".croppractices"
+            android:exported="true"
+            android:label="Crop Practices"
+            android:parentActivityName=".Dashboard" />
+        <activity
+            android:name=".soiltesting"
+            android:exported="true"
+            android:label="Soil testing"
+            android:parentActivityName=".Dashboard" />
+        <activity
+            android:name=".Dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".register"
+            android:exported="false" />
+    </application>
+
+</manifest>
